@@ -6,10 +6,9 @@
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeiel2013/)
 
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jeiel2013&show_icons=true&theme=dark"/>    
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jeiel2013&theme=dark"/> 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel2013&theme=dark"/>  
 </div>
-    
-
 
 ## Estou estudando
 
