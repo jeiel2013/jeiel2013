@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Jeiel Jedson, estudante de Sistemas de Informação ✌
+    Sou Estudante de Sistemas de Informação. Sou interessado em desenvolver, em moderação, e construir projetos que ajudem as pessoas em várias áreas do dia a dia!
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeiel2013/)
@@ -10,12 +11,10 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel2013&theme=dark"/>  
 </div>
 
-## Estou estudando
+## Atualmente estou estudando as linguagens
 
 <div style='display: inline_block'><br/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" height="70em" alt="html15" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
+    <img align="center" height="70em" alt="html15" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
     </div><br/>
     
-    Amo tecnologia, aprender mais sobre tudo relacionado e comunicar em grupos e com meus amigos.
