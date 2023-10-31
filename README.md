@@ -4,6 +4,7 @@
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeiel2013&theme=dark"/> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel2013&theme=dark"/>  
 </div>
 
 <!--# Olá todos 👋
