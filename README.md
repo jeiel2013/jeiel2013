@@ -11,7 +11,7 @@
 **Sou o Jeiel (ele/dele)** - Sou Estudante de Sistemas de Informação. Sou interessado em desenvolver, em moderação, e construir projetos que ajudem as pessoas em várias áreas do dia a dia!<br/><br/>-->
 
 **Essas são as linguagens que atualmente estou estudando!** <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=cs,py,html,css)](https://skillicons.dev)<br/>
 
 **Minhas redes sociais**<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeiel2013/)
