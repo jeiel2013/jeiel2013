@@ -12,7 +12,7 @@
 <div align="center">
 <h3>Essas são as linguagens que atualmente estou estudando!</h3>
 <!--<p align="center">-->
-    <img src="https://skillicons.dev/icons?i=cs,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js" />
   </a>
 </p><br/>
 </div>
