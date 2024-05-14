@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-- 🔭 I’m currently studying Information Systems on [Univale](https://univale.br)
+- 🔭 I’m currently graduating Information Systems on [Univale](https://univale.br)
 - 🌱 I'm delving into competitive coding platforms to improve my skills, particularly in **JavaScript** and **TypeScript**.
 - 🖥️  You can see my portfolio at [official website](https://portfolio-jeiel.vercel.app)
 - 📫 How to reach me: **contatojeiel2013@gmail.com**.
