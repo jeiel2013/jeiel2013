@@ -16,7 +16,8 @@
 
 <div align = "center">
 
-[![jeiel2013 GitHub stats](https://github-readme-stats.vercel.app/api?username=jeiel2013&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/jeiel2013)
+[![jeiel2013 GitHub stats](https://github-readme-stats.vercel.app/api?username=jeiel2013&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&counnt_private=true)](https://github.com/jeiel2013)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel2013&layout=compact&show_icons=true&theme=dark&counnt_private=true)
 
 </div>
 <br>
