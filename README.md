@@ -10,7 +10,7 @@
 - 📫 How to reach me: **contatojeiel2013@gmail.com**.
 - 🚀  I'm currently looking for a job (Based in Consolidation of Labor Laws on Brazil)
 - 🧠  I'm learning about JavaScript, Java, C# & MySQL.
-- <!-- - 🧠  I'm learning about TypeScript, JavaScript, Node.JS, Python, C# & MySQL.-->
+<!-- - 🧠  I'm learning about TypeScript, JavaScript, Node.JS, Python, C# & MySQL.-->
 
 <br>
 <h2 align="center">📊 Github Stats</h2>
