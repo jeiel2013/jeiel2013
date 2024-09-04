@@ -9,7 +9,7 @@
 - 🖥️  You can see my portfolio at [official website](https://jeieldev.vercel.app)
 - 📫 How to reach me: **contatojeiel2013@gmail.com**.
 - 🚀  I'm currently looking for a job (Based in Consolidation of Labor Laws on Brazil)
-- 🧠  I'm learning about JavaScript, Java, C# & MySQL.
+- 🧠  I'm learning about JavaScript, Dart & MySQL.
 <!-- - 🧠  I'm learning about TypeScript, JavaScript, Node.JS, Python, C# & MySQL.-->
 
 <br>
@@ -28,7 +28,7 @@
 <br>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,python,nodejs,cs,java,windows,vscode,figma)](https://skillicons.dev)-->
-[![My Skills](https://skillicons.dev/icons?i=javascript,cs,java,flutter,dart,windows,mysql,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,flutter,dart,windows,mysql,vscode,figma)](https://skillicons.dev)
 
 <br>
 <hr>
