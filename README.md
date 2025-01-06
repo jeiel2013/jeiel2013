@@ -28,7 +28,7 @@
 <br>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,python,nodejs,cs,java,windows,vscode,figma)](https://skillicons.dev)-->
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,flutter,dart,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,flutter,dart,mysql,vscode,prisma,nestjs)](https://skillicons.dev)
 
 <br>
 <hr>
