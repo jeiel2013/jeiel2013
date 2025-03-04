@@ -8,7 +8,7 @@
 - 🔭 Atualmente estou me formando em Sistemas de Informação em [Univale](https://univale.br)
 - 📫 Como me contactar: **contatojeiel2013@gmail.com**.
 - 🚀  Atualmente estou procurando emprego
-- 🧠  Estou aprendendo sobre JavaScript, Node.js e MySQL.
+- 🧠  Estou aprendendo sobre TypeScript, NestJS e PostgreSQL.
 
 <br>
 
