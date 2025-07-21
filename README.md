@@ -22,7 +22,10 @@
 <br>
 <hr>
 <h2 align="center">Estatísticas</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeiel2013)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeiel2013&show_icons=true&theme=radical" alt="Jeiel GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel2013&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</p>
 <hr>
 
 <div align = "center">
