@@ -8,7 +8,6 @@
 - 🔭 Atualmente estou me formando em Sistemas de Informação em [Univale](https://univale.br)
 - 📫 Como me contactar: **contatojeiel2013@gmail.com**.
 - 🚀  Atualmente estou procurando emprego
-- 🧠  Estou aprendendo sobre TypeScript, NestJS e PostgreSQL.
 
 <br>
 
@@ -18,9 +17,12 @@
 <br>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,python,nodejs,cs,java,windows,vscode,figma)](https://skillicons.dev)-->
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,vscode,prisma,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,mysql,vscode,prisma,nestjs,git,github,linux)](https://skillicons.dev)
 
 <br>
+<hr>
+<h2 align="center">Estatísticas</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeiel2013)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 <div align = "center">
