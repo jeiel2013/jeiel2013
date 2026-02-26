@@ -46,9 +46,9 @@
 
 <p align="center">
   <!-- github-profile-summary-cards (mais estável) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeiel2013&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeiel2013&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeiel2013&theme=vision_friendly_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeiel2013&theme=vision_friendly_dark"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeiel2013&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeiel2013&theme=vision_friendly_dark"/>
 </p>
