@@ -49,8 +49,8 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **[Portfólio](https://jeieldev.vercel.app/)** | Portfólio pessoal | React, Vite, Three.js, React Router |
-| **Studio Kather** | Site institucional feita para estúdio de identidades visuais | Vite, React, TailwindCSS, TypeScript |
-| **Karine Azevedo** | Landing page para uma fotógrafa | Vite, React, TailwindCSS, TypeScript |
+| **[Studio Kather](https://studiokather.com)** | Site institucional feita para estúdio de identidades visuais | Vite, React, TailwindCSS, TypeScript |
+| **[Karine Azevedo](https://karineazevedo.vercel.app/)** | Landing page para uma fotógrafa | Vite, React, TailwindCSS, TypeScript |
 | **GameDeals** | App de ofertas de jogos com favoritos offline | React Native, SQLite, CheapShark API |
 | **AutomacaoGestos** | Controle do computador por gestos manuais, inspirado em episódios de Black Mirror | Python, MediaPipe, OpenCV |
 
