@@ -1,5 +1,5 @@
 <h1 align="center">Jeiel Alves</h1>
-<h3 align="center">Desenvolvedor FullStack · Sistemas de Informação</h3>
+<h3 align="center">Desenvolvedor FullStack</h3>
 
 <p align="center">
   Construindo aplicações web completas, do banco de dados à interface.<br/>
