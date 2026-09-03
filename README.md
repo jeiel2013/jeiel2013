@@ -26,7 +26,6 @@
 - ⚙️ Foco em **backend e desenvolvimento Full Stack** com NestJS, Node.js, TypeScript, React e Prisma
 - 🧱 Experiência com APIs REST, autenticação JWT, controle de acesso, bancos relacionais, testes e Docker
 - 🔥 Criador e mantenedor do **NestForge**, um starter open source para aplicações NestJS
-- 🤝 Experiência colaborativa no **Projeto Crescer**, sistema desenvolvido em equipe para a gestão de um projeto social
 - 💼 Freelancer com sites institucionais, landing pages e portfólios entregues a clientes reais
 - 📱 Conhecimentos complementares em Flutter, React Native, Python e visão computacional
 
